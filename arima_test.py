@@ -170,5 +170,8 @@ def main():
     and so on.
     '''
 
+    plt.plot(np.random.rand(10))
+    plt.show()
+
 if __name__ == '__main__':
     main()
